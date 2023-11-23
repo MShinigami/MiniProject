@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+D:\VCPKG\vcpkg\installed\x64-windows\include\GLFW\glfw3.h(123,1): message : see previous definition of 'APIENTRY'
+H:\Miniproject\Terminal1\Terminal1\Terminal1\Source.cpp(107,22): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+H:\Miniproject\Terminal1\Terminal1\Terminal1\Source.cpp(107,16): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+  Terminal1.vcxproj -> H:\Miniproject\Terminal1\Terminal1\x64\Debug\Terminal1.exe
